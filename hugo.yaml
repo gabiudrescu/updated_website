@@ -349,7 +349,7 @@ params:
   contact:
     enable: true
     title: "Get in touch"
-    content: Best way to reach out is via email. Don't be shy.
+    content: "Best way to reach out is via email. But, you can try also <a href='tel:+40741236296'>my phone</a>."
     email: website@gabiudrescu.com
     btnName: Mail me
     # formspree:
