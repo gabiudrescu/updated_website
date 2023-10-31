@@ -348,7 +348,7 @@ params:
   #Contact
   contact:
     enable: true
-    # title: "Custom Name"
+    title: "Get in touch"
     content: Best way to reach out is via email. Don't be shy.
     email: website@gabiudrescu.com
     btnName: Mail me
