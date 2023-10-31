@@ -54,7 +54,7 @@ Menus:
 
 params:
   title: "Gabi Udrescu Personal Website"
-  description: Text about my cool site
+  description: Personal website for Gabriel Udrescu, software product owner with 10+ years expertise in eCommerce.
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
@@ -125,7 +125,7 @@ params:
       
       Starting 2020, I'm working on my own, collaborating with various companies either on bringing to life a new project or contributing to an existing one.
 
-      I have a strong belief that the wheel doesn't need to be reinvented. The key to a successful product is finding the right wheel for the needs you identify. 
+      I have a strong belief that the wheel doesn't need to be reinvented. The key to a successful product is finding the right wheels for the needs you identify. 
     #image: /images/hero.svg
     bottomImage:
       enable: true
